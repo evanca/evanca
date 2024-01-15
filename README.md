@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=evanca&count_private=true&show_icons=true&hide=issues,contribs)
+![GitHub stats](https://github-readme-stats-alpha-blush-52.vercel.app/api?username=evanca&count_private=true&show_icons=true&hide=issues,contribs)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2f5ed1be-c97a-4d11-9513-d3f9c87e2d44&langs_count=5&custom_title=Ivanna's%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats-alpha-blush-52.vercel.app/api/wakatime?username=2f5ed1be-c97a-4d11-9513-d3f9c87e2d44&langs_count=5&custom_title=Ivanna's%20Coding%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌍 I am from: Riga, Latvia
