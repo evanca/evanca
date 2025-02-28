@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 - 🌍 I am from: Riga, Latvia
-- 🔭 I’m currently working on: building the world’s most reliable restaurant guide
+- 🔭 I’m currently working with Flutter
 - 📫 How to reach me: www.happycode.studio
 - 🤍 I like: coding, cappuccino, travelling & watching movies
 - 🧅 I dislike: onions
